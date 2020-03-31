@@ -99,6 +99,7 @@
 			strings: [typed_strings],
 			typeSpeed: 100,
 			fadeOut: true,
+			startDelay: 700,
 			fadeOutDelay: 100000
 		});
 	}
